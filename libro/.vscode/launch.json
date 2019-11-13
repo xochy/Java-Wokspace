@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cadenas1",
+            "request": "launch",
+            "mainClass": "cap01.Cadenas1",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cadenas9B",
+            "request": "launch",
+            "mainClass": "cap01.Cadenas9B",
+            "projectName": "libro",
+            "console": "internalConsole"
+        }
+    ]
+}
