@@ -2,6 +2,49 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestAreaPromedio",
+            "request": "launch",
+            "mainClass": "cap02.figuras.TestAreaPromedio",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestFiguras",
+            "request": "launch",
+            "mainClass": "cap02.figuras.TestFiguras",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestFechaHora",
+            "request": "launch",
+            "mainClass": "cap02.TestFechaHora",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestPolimorfismo",
+            "request": "launch",
+            "mainClass": "cap02.TestPolimorfismo",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestFecha2",
+            "request": "launch",
+            "mainClass": "cap02.TestFecha2",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestFecha1",
+            "request": "launch",
+            "mainClass": "cap02.TestFecha1",
+            "projectName": "libro",
+            "console": "internalConsole"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Cadenas1",
             "request": "launch",
             "mainClass": "cap01.Cadenas1",
