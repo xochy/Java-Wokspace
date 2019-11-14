@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestStatic",
+            "request": "launch",
+            "mainClass": "cap02.estaticas.TestStatic",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestNumero",
+            "request": "launch",
+            "mainClass": "cap02.estaticas.TestNumero",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TestAreaPromedio",
             "request": "launch",
             "mainClass": "cap02.figuras.TestAreaPromedio",
