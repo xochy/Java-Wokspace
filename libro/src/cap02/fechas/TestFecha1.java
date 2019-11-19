@@ -1,4 +1,4 @@
-package cap02;
+package cap02.fechas;
 
 public class TestFecha1{
 

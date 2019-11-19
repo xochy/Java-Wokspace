@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestFecha2",
+            "request": "launch",
+            "mainClass": "cap02.TestFecha2",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestFecha1",
+            "request": "launch",
+            "mainClass": "cap02.TestFecha1",
+            "projectName": "libro"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HolaMundo",
             "request": "launch",
             "mainClass": "HolaMundo",
